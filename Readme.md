@@ -1,7 +1,7 @@
 ## NSS - 2 Final Project
 
 ### Description
-This is a guide to how to setup our VMs on your machines so that everything runs smoothly. We have made and test all the machines on Oracle VirtualBox. _**WE CAN'T BE SURE how VMs would behave in VMWare**_ since it has a different philosophy of attaching adapter to a machine. We haven't tested on VMWare but you are welcome to try.
+This is a guide to how to setup the VMs on your machines so that everything runs smoothly. We have made and test all the machines on Oracle VirtualBox. _**I CAN'T BE SURE how VMs would behave in VMWare**_ since it has a different philosophy of attaching adapter to a machine. I haven't tested on VMWare but you are welcome to try.
 
 ### Objective
 
@@ -59,7 +59,7 @@ username: redteam
 password: tryhackme
 ```
 
-After that you should be able to access our webserver on your web browser by using it's private IP.
+After that you should be able to access the webserver on your web browser by using it's private IP.
 
 
 
